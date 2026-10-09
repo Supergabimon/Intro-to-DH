@@ -1,4 +1,4 @@
-# Intro-to-DH
+# Assignment DH-Lab
 Testfolder for my MA course
 
 ## Here I will share some brainstorm processes
